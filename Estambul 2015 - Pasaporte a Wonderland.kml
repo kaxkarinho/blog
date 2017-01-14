@@ -1,0 +1,869 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Points of Interest Istanbul - Puntos de Interes de Estambul</name>
+		<description><![CDATA[Muchas de la atracciomnes de Estambul]]></description>
+		<Folder>
+			<name>P.O.I ESTAMBUL</name>
+			<Placemark>
+				<name>Mezquita de Pertevniyal Valide Sultan</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Y3VqwSr1xKQpSSRhMw8Igz7Ewf5oUiM6F_3rmPxesBYod19k5_fA0wEGPDlvMmK7JlpZ1mK38P-q0NR9kCb7hx035Rn4AMK-5BoNXz8xB7FF6zHoRjpgKIdEZh2J_1UZlXTD5A" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/Y3VqwSr1xKQpSSRhMw8Igz7Ewf5oUiM6F_3rmPxesBYod19k5_fA0wEGPDlvMmK7JlpZ1mK38P-q0NR9kCb7hx035Rn4AMK-5BoNXz8xB7FF6zHoRjpgKIdEZh2J_1UZlXTD5A</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.952971000000005,41.009994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Metro Akasaray</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>28.953647,41.009637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Columna de Marciano</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/LPFkBCXZnzyFfGku62s8mcIxHxfkV_lAtKo_7Gwg8zYUXAmmbuisfkCiVd9ng_o5K8qfZy_xgDb-pdzc1KCdI0Dfy4i4rpVdoEO8MFKzByJZ56LSOpses6PpCnOG5WsLKZD7Bw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/LPFkBCXZnzyFfGku62s8mcIxHxfkV_lAtKo_7Gwg8zYUXAmmbuisfkCiVd9ng_o5K8qfZy_xgDb-pdzc1KCdI0Dfy4i4rpVdoEO8MFKzByJZ56LSOpses6PpCnOG5WsLKZD7Bw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.950208,41.015324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Fathi</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Q8ctudbRxtr5V1KM3ZCUqUgyax7RJOF-qScOIfIZ_j7J2okEdSrvgYe0uZm-Uu5jDsPg_dZBirWIiO4Pzs_XGz6LOWiET9encwJ-jQ7VI9GDXqTue5IXGh9Sbf9NQuKhUhPovA" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Q8ctudbRxtr5V1KM3ZCUqUgyax7RJOF-qScOIfIZ_j7J2okEdSrvgYe0uZm-Uu5jDsPg_dZBirWIiO4Pzs_XGz6LOWiET9encwJ-jQ7VI9GDXqTue5IXGh9Sbf9NQuKhUhPovA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.949854000000002,41.019542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Acueducto de Valente</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/JnC3dJAgTUsSirPTL47yjyPFs0BHsDx6nIqfdDFKm0t8PzViXKzkKe17oTp86zw8st1S90pA2xHcyJmSb6YdwEIoqgOiKI-qigFCQ934UjfedIp2W985XwGv58qPlOx1dzKOO8c" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/JnC3dJAgTUsSirPTL47yjyPFs0BHsDx6nIqfdDFKm0t8PzViXKzkKe17oTp86zw8st1S90pA2xHcyJmSb6YdwEIoqgOiKI-qigFCQ934UjfedIp2W985XwGv58qPlOx1dzKOO8c</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.955562,41.01598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Fatih Anıt</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EN9zTLy9Kdnm5a3h6Nqk3iGjiQXrVGzLaad6GDcJTHAXSYTQWwK9XWjImfRxIb6eMGcWVQbA1kiUANfvkDonjuOJJpH0l_lFWUaaPd7BAZGw32JWI-7rFGyRsluILoKEInHmRHc" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/EN9zTLy9Kdnm5a3h6Nqk3iGjiQXrVGzLaad6GDcJTHAXSYTQWwK9XWjImfRxIb6eMGcWVQbA1kiUANfvkDonjuOJJpH0l_lFWUaaPd7BAZGw32JWI-7rFGyRsluILoKEInHmRHc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.954307,41.015664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Sehzade</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vRxh8wtz6JP9bDH0580HGkan4ku1DsXNOH_5nLPgqn4EN_-8qn9Klo0x4FNAT2BEX1cZMaoPfVq11zJx0T2OCYJKfdS2TM3W7bqWjxRVyR5-2-59pNo341ib43ZY5_lR3taZJFA" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/vRxh8wtz6JP9bDH0580HGkan4ku1DsXNOH_5nLPgqn4EN_-8qn9Klo0x4FNAT2BEX1cZMaoPfVq11zJx0T2OCYJKfdS2TM3W7bqWjxRVyR5-2-59pNo341ib43ZY5_lR3taZJFA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.957139,41.013823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Süleymaniye</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EsJxXw7Fju-LPJzxhDEoM90H_itR_nvGO7rpg7bKyZGuAL84cnB0Puhi3fTZzUqfG8lRLJGOY-fBU125rO5DYL2R0Lj7acYBRK1UIAhrUEDuM61F5Cc46iMTit4B9sRDfoa6VUk" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/EsJxXw7Fju-LPJzxhDEoM90H_itR_nvGO7rpg7bKyZGuAL84cnB0Puhi3fTZzUqfG8lRLJGOY-fBU125rO5DYL2R0Lj7acYBRK1UIAhrUEDuM61F5Cc46iMTit4B9sRDfoa6VUk</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.964016,41.016134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre de Beyazıt</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_mbW0HXJkQp9tuAMRPmDwunieXNig_yFbKylLtYXgnEjbxIogQQH_h1n_Q9T1Bw6Sr9wuQxlzDTCf2k2p8iXtkhFl_j9w_sF2Q4YJILeVF-5YoOzhZ8MSEjpiCSIqPl4ZK6nejj3g3PEgvnoqcNVpHSbk9B4gqZmhtC2sx2fKKEYVw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/_mbW0HXJkQp9tuAMRPmDwunieXNig_yFbKylLtYXgnEjbxIogQQH_h1n_Q9T1Bw6Sr9wuQxlzDTCf2k2p8iXtkhFl_j9w_sF2Q4YJILeVF-5YoOzhZ8MSEjpiCSIqPl4ZK6nejj3g3PEgvnoqcNVpHSbk9B4gqZmhtC2sx2fKKEYVw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.964875,41.012766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universidad</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/GRmc70_s9um4cAIu46bUwrfGcTvfIsgcLhZidGnAu0pKyVkHANInmn_Iq4zh_MM5uDc0q6-DBFSwLEfbNtT734XaxRAMc7HrzOsk08yitrT1OL8N6HojxRbHOiyHqHwno98e4GM" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/GRmc70_s9um4cAIu46bUwrfGcTvfIsgcLhZidGnAu0pKyVkHANInmn_Iq4zh_MM5uDc0q6-DBFSwLEfbNtT734XaxRAMc7HrzOsk08yitrT1OL8N6HojxRbHOiyHqHwno98e4GM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.963641,41.014636,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Terraza Sefa-i Hürrem Cafe Restaurant</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/LOAftcvLWaE8X-qRq3b_eqO-rhHYRltoFMHPzD0-G55GNQ_2UZZQuAZ5R59wkGhwJHyg6R5bsbxlDvcmZ2-ok09kL4RBf785qxYYA3E8PgDIVY8JS3qlr4WJZP0u84O1Q7-Lqv4" height="200" width="auto" /><br><br>sefaihurremcafe.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/LOAftcvLWaE8X-qRq3b_eqO-rhHYRltoFMHPzD0-G55GNQ_2UZZQuAZ5R59wkGhwJHyg6R5bsbxlDvcmZ2-ok09kL4RBf785qxYYA3E8PgDIVY8JS3qlr4WJZP0u84O1Q7-Lqv4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.966361,41.016579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Vilayet</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/cY8S0b4gVmumw_hCNvtwbSQSCSMOg1AU9FWQWxXlfNa771ypRSc1IeSNY9lUk5JSHbcR80MCo6NOxLRWm14ugAkcqjfCt3gSAuPDnS_AHvVQvjOn-0zrotzgXGf0WFYIG_sMms6d3Q" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/cY8S0b4gVmumw_hCNvtwbSQSCSMOg1AU9FWQWxXlfNa771ypRSc1IeSNY9lUk5JSHbcR80MCo6NOxLRWm14ugAkcqjfCt3gSAuPDnS_AHvVQvjOn-0zrotzgXGf0WFYIG_sMms6d3Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.975656000000004,41.012622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tranvia Kabatas</name>
+				<description><![CDATA[Ultima parada del tranvia T1]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>28.992314,41.034056,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puente Gálata</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/rA7dVR7bCnGuQ2ODSzJW7lzwVwKBbUGBSnFhNjoZGigzYONdxuH_FBvwosBmL4XDdbQka0Yk0raGisWjLn32DzPA7lTJyJf9I7rs_9o57t947PfBL8oh9_0NA2CyPLrZmPImXAVJ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/rA7dVR7bCnGuQ2ODSzJW7lzwVwKBbUGBSnFhNjoZGigzYONdxuH_FBvwosBmL4XDdbQka0Yk0raGisWjLn32DzPA7lTJyJf9I7rs_9o57t947PfBL8oh9_0NA2CyPLrZmPImXAVJ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.97313,41.019957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palacio Dolmabahçe 
+</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/KD9U5kNmeyqSut3mqCshP0c8MLI-pVWdHTsBNGhCROGYzIHDLV9Z_jd2TtSfo58Aax53la4kxXjUoyOPP_Q3Yd7GamRwJg4LdKX3a-kKZqglYkKWBirAru7jAUvKsI0645aZ6skwqg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/KD9U5kNmeyqSut3mqCshP0c8MLI-pVWdHTsBNGhCROGYzIHDLV9Z_jd2TtSfo58Aax53la4kxXjUoyOPP_Q3Yd7GamRwJg4LdKX3a-kKZqglYkKWBirAru7jAUvKsI0645aZ6skwqg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.997482,41.03784400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Funicular Kabatas</name>
+				<description><![CDATA[Conecta la última parada del Tranvía T1 (Kabataş) , con la plaza Taksim.]]></description>
+				<styleUrl>#icon-1435</styleUrl>
+				<Point>
+					<coordinates>28.992092,41.033984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaza Taksim</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/SWtnQhkRr1wdbj9VocSi6UYbCSv7Ekb6ROT-YzrV83X7E_o7jhs0UiZOydGZO1toBPQ8FEMaO4dM9fAcpKP_8d0L7gnvam7AdaXb-o_U_WloeUQftRr0T9mUM7hTt8aBwgrAJFDXmw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/SWtnQhkRr1wdbj9VocSi6UYbCSv7Ekb6ROT-YzrV83X7E_o7jhs0UiZOydGZO1toBPQ8FEMaO4dM9fAcpKP_8d0L7gnvam7AdaXb-o_U_WloeUQftRr0T9mUM7hTt8aBwgrAJFDXmw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.985166,41.036999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Gülhane</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/qB9IRJI0XPTgyvx30GE_2SQiUzKdhC2ZHAi3TCLAa5cwAH1NE_ku2m9yUuj-nFttfhGUSepNtMSgY1o3gnemcTLvHxXC0t5JsGlXIly3kFDZNoh0xW_nNyxy5TEAads8KQPzEg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/qB9IRJI0XPTgyvx30GE_2SQiUzKdhC2ZHAi3TCLAa5cwAH1NE_ku2m9yUuj-nFttfhGUSepNtMSgY1o3gnemcTLvHxXC0t5JsGlXIly3kFDZNoh0xW_nNyxy5TEAads8KQPzEg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.981407,41.013731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iglesia San Antonio</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ZFsatwaMz0_drYvyqJr-8ZX3J8FKylwIWUW81u6jMlxiEBv-h8UAH5hTLwhp6kIVNHLSOubKOHkEJl3dWJiJKuGYmd8fZz6BDCJTHrlClWX42mI8ze-d455ytnCPVI4hXe9v5HuWNA" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/ZFsatwaMz0_drYvyqJr-8ZX3J8FKylwIWUW81u6jMlxiEBv-h8UAH5hTLwhp6kIVNHLSOubKOHkEJl3dWJiJKuGYmd8fZz6BDCJTHrlClWX42mI8ze-d455ytnCPVI4hXe9v5HuWNA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.977133,41.032308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avenida Istiklal</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Cho_-01_mu7sbJ3I4LyDIrAZqZZZjyGjuyeSLFIzonNs8JQYqspCtW1SSEHt4reKxrhW0yfAhC7e4ukAFvxSirwMMfnF4HG8p_FXBLrfy55YUXIY3nE1XH1xvOovDOBJZjuHUXuJ2_fpcBdXT-0uECXFzs9lxv-_9FhI_81hiAmfhy4aDtg1lC7OL4SX52qXzPppnEVfasiEZikYoegzcfmIG0g8efAkB53NfHGloXQQ7WSUCu4" height="200" width="auto" /><br><br>Larga avenida con muchos comercios]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Cho_-01_mu7sbJ3I4LyDIrAZqZZZjyGjuyeSLFIzonNs8JQYqspCtW1SSEHt4reKxrhW0yfAhC7e4ukAFvxSirwMMfnF4HG8p_FXBLrfy55YUXIY3nE1XH1xvOovDOBJZjuHUXuJ2_fpcBdXT-0uECXFzs9lxv-_9FhI_81hiAmfhy4aDtg1lC7OL4SX52qXzPppnEVfasiEZikYoegzcfmIG0g8efAkB53NfHGloXQQ7WSUCu4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.981869000000003,41.035365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cité de Péra</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/V7GLGaAjm5Stw5SzWQyEm22eV-7GullJaAOYp6kUvLuiK8FXM3XhYF8vKIo0ZCcDHdLZ9bV70aA9S-eDj-J8xNw2krbZJ9lbeQu0R0sy2XQANutvUp1n3VYmz-B1ozv46x2RiGsw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/V7GLGaAjm5Stw5SzWQyEm22eV-7GullJaAOYp6kUvLuiK8FXM3XhYF8vKIo0ZCcDHdLZ9bV70aA9S-eDj-J8xNw2krbZJ9lbeQu0R0sy2XQANutvUp1n3VYmz-B1ozv46x2RiGsw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.978043999999997,41.03394200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre Gálata</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Th-4ttzt08z3AhnPYRaWFBvIMvj7oGCMDYwJ5pvXJ1Pe-T7ucDx86I1nTLPk-Tn5Q2PVAOlMQHAcSiQzDeRhM6OxVtxDF-4jFOvLFaK-rLUDX67lt-pUgEXYC5Fyacffv0wxN8GTuOAXvobvo7vv6F_RuqnNSZ1rEt8-o9ClulrjVldMsWrOhGoQgqiCqQnX8uvg49hlXP-bmOsggf6Bjs7OOCPAPdugYn49qGi5FRbacnzf-43J_Nj029YXjOswJXx20e6bF-ifWOnbXKEn7kkZFQHvEFyGzRqc" height="200" width="auto" /><br><br>Uno de los simbolos de la ciudad<br><br><img src="https://lh6.googleusercontent.com/proxy/ueS-7LpD6Ajyce7CrZs-adyCZClNYefaqzJpLdNniK6_2aeLf0qU-5w8W3OOT0VcaKO9zvq4AgiawU8Cfm6MkXRW8XRlay8U_6k-9BZHfJRR2YPuji64l_3PKHypgTM4Li_B-kOOLQ" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/Th-4ttzt08z3AhnPYRaWFBvIMvj7oGCMDYwJ5pvXJ1Pe-T7ucDx86I1nTLPk-Tn5Q2PVAOlMQHAcSiQzDeRhM6OxVtxDF-4jFOvLFaK-rLUDX67lt-pUgEXYC5Fyacffv0wxN8GTuOAXvobvo7vv6F_RuqnNSZ1rEt8-o9ClulrjVldMsWrOhGoQgqiCqQnX8uvg49hlXP-bmOsggf6Bjs7OOCPAPdugYn49qGi5FRbacnzf-43J_Nj029YXjOswJXx20e6bF-ifWOnbXKEn7kkZFQHvEFyGzRqc https://lh6.googleusercontent.com/proxy/ueS-7LpD6Ajyce7CrZs-adyCZClNYefaqzJpLdNniK6_2aeLf0qU-5w8W3OOT0VcaKO9zvq4AgiawU8Cfm6MkXRW8XRlay8U_6k-9BZHfJRR2YPuji64l_3PKHypgTM4Li_B-kOOLQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.974169,41.025634,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Galata Konak Cafe</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/9PPrecOoLf6uZsE4qvQdcvUFmVbpSWHUJXw3SGu1-7DxPWPy8yWoHT3QaM5XufAiA1B8lzCZ76MvUUOZWB3PpSquuYUAtWgmskalVagVcRSqVyhUdLqYbhkhr_EgVmeHMQNNuIW5PUAmGu_JBotbdi3zZYoybEh_5Nem7LyhB6HAsLyA7DEbpk9cbuOP41569OuOqfLKf1B3Ok93" height="200" width="auto" /><br><br>Terrazas con las mejores vistas de la zona http://www.galatakonakcafe.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/9PPrecOoLf6uZsE4qvQdcvUFmVbpSWHUJXw3SGu1-7DxPWPy8yWoHT3QaM5XufAiA1B8lzCZ76MvUUOZWB3PpSquuYUAtWgmskalVagVcRSqVyhUdLqYbhkhr_EgVmeHMQNNuIW5PUAmGu_JBotbdi3zZYoybEh_5Nem7LyhB6HAsLyA7DEbpk9cbuOP41569OuOqfLKf1B3Ok93</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.974477000000004,41.02482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estación Sirkeci</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/WvkTpIbifQ9i9I-kjOaX6i_uFWt3hSrR15WsE9FJlmEhYLXzhx_KfNzNy9sYDn2TvkWKRnf4mYR3Kq6wRnetCgXUCdgA75xqWAWsmgbOscp8igeYCi4H4tTVfTLOvoHjJmQKhjBDYw" height="200" width="auto" /><br><br>Estación final del Orient express]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/WvkTpIbifQ9i9I-kjOaX6i_uFWt3hSrR15WsE9FJlmEhYLXzhx_KfNzNy9sYDn2TvkWKRnf4mYR3Kq6wRnetCgXUCdgA75xqWAWsmgbOscp8igeYCi4H4tTVfTLOvoHjJmQKhjBDYw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.977841000000005,41.015454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Funicular Taksim</name>
+				<description><![CDATA[Conecta la plaza Taksim con el Tranvía T1 (Kabataş)]]></description>
+				<styleUrl>#icon-1435</styleUrl>
+				<Point>
+					<coordinates>28.986662,41.036871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ferry Eminönü</name>
+				<description><![CDATA[Horario http://en.sehirhatlari.istanbul/en/timetable/halic-hatti-361.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>28.968842,41.019383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ferry Eyüp</name>
+				<description><![CDATA[Horario http://en.sehirhatlari.istanbul/en/timetable/halic-hatti-361.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>28.937795,41.047277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teleferico Eyüp</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/IxstL0lMtiNK6p24BRHDRleiLUalIN6oWlBgLZdL0bSaazKWSuIu-iKmWifDeWZsh-6Xfuo3dYB8VmR9DlnJuH-tk8tqskK1OUMBiUEGz7x0XLqh8RTvPc6f6fSSYscCTW3UV9ZDQojMo2qF8LqVzqU9fijnfNGACSlo1Ix0ac8qd9LeCRMWFiO3JzqVBuDSeINdIB9BnBq9YGNfaPd520C9-_NDcu4CKclHsnrklUrjNsMKkkwjssw41_4QXHCY" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/IxstL0lMtiNK6p24BRHDRleiLUalIN6oWlBgLZdL0bSaazKWSuIu-iKmWifDeWZsh-6Xfuo3dYB8VmR9DlnJuH-tk8tqskK1OUMBiUEGz7x0XLqh8RTvPc6f6fSSYscCTW3UV9ZDQojMo2qF8LqVzqU9fijnfNGACSlo1Ix0ac8qd9LeCRMWFiO3JzqVBuDSeINdIB9BnBq9YGNfaPd520C9-_NDcu4CKclHsnrklUrjNsMKkkwjssw41_4QXHCY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.934405,41.050133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cuerno de Oro</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/j18AgiHAwZQSi2-rsyDrv4PKsXADj3N-O0aeJZfNxafuUzuXonzG5cU6cuUuc6Q__K-ONNbr8EOnYabwDx6YPtAn_uEm1OCH7U1IJaqFllYn8WyEGRYvOovmc6GBxvKrhTLX40s" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/j18AgiHAwZQSi2-rsyDrv4PKsXADj3N-O0aeJZfNxafuUzuXonzG5cU6cuUuc6Q__K-ONNbr8EOnYabwDx6YPtAn_uEm1OCH7U1IJaqFllYn8WyEGRYvOovmc6GBxvKrhTLX40s</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.957343,41.031392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teleferico Pierre Lotti</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>28.931916,41.052423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pierre Loti Coffee House</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/6JpHnjzwpM0vuSxye3Ue2xzc5LJR810QueawiqI4OFnJENOpVNM17S-RQJgTujQb7ExjGTYyedoDhfnBhEQqqA3EBljV2BWXG9Nt6t8sQMm0WTZH74AkL2-1c5Lje5wMxioIzo7y" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/6JpHnjzwpM0vuSxye3Ue2xzc5LJR810QueawiqI4OFnJENOpVNM17S-RQJgTujQb7ExjGTYyedoDhfnBhEQqqA3EBljV2BWXG9Nt6t8sQMm0WTZH74AkL2-1c5Lje5wMxioIzo7y</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.933046000000004,41.053689,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita de Eyüp Sultan</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/GgHkiE12FT4u-MnScyZz-TATvrcdMwqL1wqpPUfqprSbA3wub-oqblmPUu294nXvdJmCKc60BHnf_DdZFQoHkYvEhPOlXlFj2DnkaIkWgprBjT1946SaljRHmas5bvhRsNjUFt3mBQ5lhmYfaix4xne-IhKEoNglduJYopo-_c1jG8bYYR3OzttfambGI08c_3Seu4KPrwGyTz_R_QsS8fjANdSl54DO2piskEHCiJrS5V1-VqBELcxKI3enQO_s" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/GgHkiE12FT4u-MnScyZz-TATvrcdMwqL1wqpPUfqprSbA3wub-oqblmPUu294nXvdJmCKc60BHnf_DdZFQoHkYvEhPOlXlFj2DnkaIkWgprBjT1946SaljRHmas5bvhRsNjUFt3mBQ5lhmYfaix4xne-IhKEoNglduJYopo-_c1jG8bYYR3OzttfambGI08c_3Seu4KPrwGyTz_R_QsS8fjANdSl54DO2piskEHCiJrS5V1-VqBELcxKI3enQO_s</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.934292,41.047431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Rustem Pasa</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/bJOXmohygqWaC4aD4RFfaAMTJRBQ9UjjRzoaAmHHHMHdWCx8hb2F6dUOjcLrA1QqzxpXhPnyzQ_XGaVjo6kTYAP1r4oAA4KOBe_jbreD4YXXhNH4IX4BViG-N9ZPZXj156KA9QqJm_HquR9AD-ZOmAipKW8rvgAO6i04iJv9p66fk8TyNXeyBtCmr6wFLmymGcbnXL0FgsSoj1JFVv0TbdGuoFsmkSUTaCGbJ9l7pYOIbjllhfJSdQzHv1A5Jak" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/bJOXmohygqWaC4aD4RFfaAMTJRBQ9UjjRzoaAmHHHMHdWCx8hb2F6dUOjcLrA1QqzxpXhPnyzQ_XGaVjo6kTYAP1r4oAA4KOBe_jbreD4YXXhNH4IX4BViG-N9ZPZXj156KA9QqJm_HquR9AD-ZOmAipKW8rvgAO6i04iJv9p66fk8TyNXeyBtCmr6wFLmymGcbnXL0FgsSoj1JFVv0TbdGuoFsmkSUTaCGbJ9l7pYOIbjllhfJSdQzHv1A5Jak</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.968743000000003,41.017595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Yavuz Selim</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/l0U21uIxja2_bVaEP34Mt3zxP5J-NzSPTsj1SjmpBtYSESbGqER6UaiezTU6lQ7yWWCKjh59W_YtR95yUIriHOMi0avkqjzbLjmhgwl-2Ei1-ZxIkrmv4ERUPwSp138p-xXLCaTd08iDSAcCYU1_ohSXkcXYeuLcagCXlnjcCyxZTTjGnUr6VDftt8qEbHX3nNVSFDXpBBCLHU8cH8SuOEB-A7zOVfl-xeQFrUl5xKWw8Wx2wsuOyioDHpgEwtc" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/l0U21uIxja2_bVaEP34Mt3zxP5J-NzSPTsj1SjmpBtYSESbGqER6UaiezTU6lQ7yWWCKjh59W_YtR95yUIriHOMi0avkqjzbLjmhgwl-2Ei1-ZxIkrmv4ERUPwSp138p-xXLCaTd08iDSAcCYU1_ohSXkcXYeuLcagCXlnjcCyxZTTjGnUr6VDftt8qEbHX3nNVSFDXpBBCLHU8cH8SuOEB-A7zOVfl-xeQFrUl5xKWw8Wx2wsuOyioDHpgEwtc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.951174000000005,41.026414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palacio Topkapi</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/lcsm8nfxcqeSLNWRGSiXQKDZ92UD54j1ktfzBI51fkCvZuXSlVouQmQ0_zUkRHRMXYHQm-Uw63CL_IYASeWP8zb5Uppr6c64xVLQVkccTnsZ1L68vouL71rtiNgMD-zWDoKV7XUEDXZu4rt24r4ijwiu3EYtzXEooWtbJ2HcrB6kJ2-UjcAyvQPIE4Bl-nl7Tpiz8Iw-LpqablwyJXEPrPssu7qTNKYrUnxSlmM9du3X4lhJKtDbTYXSf71bVi4wfR1MMk3Q0w" height="200" width="auto" /><br><br>El Palacio Topkapi simboliza el poder que alcanzó Constantinopla como sede del Imperio Otomano, uno de los tres imperios más grandes de la historia.  http://topkapisarayi.gov.tr/en]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/lcsm8nfxcqeSLNWRGSiXQKDZ92UD54j1ktfzBI51fkCvZuXSlVouQmQ0_zUkRHRMXYHQm-Uw63CL_IYASeWP8zb5Uppr6c64xVLQVkccTnsZ1L68vouL71rtiNgMD-zWDoKV7XUEDXZu4rt24r4ijwiu3EYtzXEooWtbJ2HcrB6kJ2-UjcAyvQPIE4Bl-nl7Tpiz8Iw-LpqablwyJXEPrPssu7qTNKYrUnxSlmM9du3X4lhJKtDbTYXSf71bVi4wfR1MMk3Q0w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.984444,41.012786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cisterna Basílica</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/M2tnc2Rq86M3c4Dzp0HdKZ5fLkmICozn1bmH4wt_ImCLL9BhtOuq8KLNXignhL36ouejin2nLWRueUFlNYX3CeZfV6JW2-wgeLocDrzfIQwARwauaxRsuTz9lUhQ_QUiFeHLpI1rtgR_DyVf2Ymf9yNEKepu1o9XEaGEHgsOzlXZGRjGw4V8BqF93A2ju1loy0bfnJPntXVyr4eNKjsNhtSWgor58V53nPNUZ-piqRdAtRpZd5yGJgdLQ1imeSeCmSGpmxwRVw" height="200" width="auto" /><br><br>La Cisterna Basílica, también conocida como Palacio Sumergido, es un depósito de agua construido en el siglo VI que compone uno de los tesoros de la ciudad.  http://yerebatan.com/homepage]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/M2tnc2Rq86M3c4Dzp0HdKZ5fLkmICozn1bmH4wt_ImCLL9BhtOuq8KLNXignhL36ouejin2nLWRueUFlNYX3CeZfV6JW2-wgeLocDrzfIQwARwauaxRsuTz9lUhQ_QUiFeHLpI1rtgR_DyVf2Ymf9yNEKepu1o9XEaGEHgsOzlXZGRjGw4V8BqF93A2ju1loy0bfnJPntXVyr4eNKjsNhtSWgor58V53nPNUZ-piqRdAtRpZd5yGJgdLQ1imeSeCmSGpmxwRVw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.977878000000004,41.008394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Submarino</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ohUqlPtOZH4XT0cxYI9Html2hFzZXDZCcVM5UvbeD13W8eFn7dmXRoFn68vOs2rQHbbD5z-SBRBk9K2g8zSV00pyPUY4AKXjyVIT1VUSjCh79ykJyWLSTvMPwcZ8siGtb_c0c21e6wW2XcQbSIXqR_idMItsH8zFQryGDy4s6zfodd62TEOcYAGn5lG-N2oaDYPidgdRLM5dwbZsEvXeow7H5BitZyjInICz0TtxHK_qTgEfEdSuXSFfbH2XreM" height="200" width="auto" /><br><br>Museo Rahmi M Koç]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/ohUqlPtOZH4XT0cxYI9Html2hFzZXDZCcVM5UvbeD13W8eFn7dmXRoFn68vOs2rQHbbD5z-SBRBk9K2g8zSV00pyPUY4AKXjyVIT1VUSjCh79ykJyWLSTvMPwcZ8siGtb_c0c21e6wW2XcQbSIXqR_idMItsH8zFQryGDy4s6zfodd62TEOcYAGn5lG-N2oaDYPidgdRLM5dwbZsEvXeow7H5BitZyjInICz0TtxHK_qTgEfEdSuXSFfbH2XreM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.948004,41.041164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Azul</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/aXtBk21hPYaqUjeCdF3Ohk606ExvEs48tLJMLdzhji-LLCFKUydbX9197qw_hmLzflxj23MjGukmQ6F5Q2t9mftf4johIT6vLPlRN5N9F6akzP-pwwqmz1bhH9zxnPqjMbtGRBY0z1654GLF1pgCyH74xnftZkHfR8UluY6lx5RXF2oTv3T9S6YOctrLCvanLpBKTBge78husrHXeFgg34aoB1lGBYH8_ZpOwy-sqxV0jlVHt4JNyjNcoZqcDRknAUZdqa0x" height="200" width="auto" /><br><br>La Mezquita Azul (Sultanahmed Camii) es el templo religioso más importante de Estambul.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/aXtBk21hPYaqUjeCdF3Ohk606ExvEs48tLJMLdzhji-LLCFKUydbX9197qw_hmLzflxj23MjGukmQ6F5Q2t9mftf4johIT6vLPlRN5N9F6akzP-pwwqmz1bhH9zxnPqjMbtGRBY0z1654GLF1pgCyH74xnftZkHfR8UluY6lx5RXF2oTv3T9S6YOctrLCvanLpBKTBge78husrHXeFgg34aoB1lGBYH8_ZpOwy-sqxV0jlVHt4JNyjNcoZqcDRknAUZdqa0x</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.976912000000002,41.005318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Columna Septentina</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/smHo7HhGGFkjuYh0C8ikiZy8ffVjhjfbJCFNipL9ir0rtEXaDBh00apYjqDd1vPgEcOGaM-cBAz3iOJ0nC-H0f6Ox_TMyf-3_6J9HdTWOkiXQquAL4rxpRWn-LneyV-oKr3tvcnJdayKELW8Bapmtmi0LMaWy8rxldzyV4ZEI7zCJoarYSO3QXYPrTrWZORpuaNJ8_EzACnvm96anPO7sB_yEIhA267PBbsOaKD-pg3bp47TMYSxI37QKn8dOeln0Ffh0ck1q57-PzCS5t18vWcFLRues-M" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/smHo7HhGGFkjuYh0C8ikiZy8ffVjhjfbJCFNipL9ir0rtEXaDBh00apYjqDd1vPgEcOGaM-cBAz3iOJ0nC-H0f6Ox_TMyf-3_6J9HdTWOkiXQquAL4rxpRWn-LneyV-oKr3tvcnJdayKELW8Bapmtmi0LMaWy8rxldzyV4ZEI7zCJoarYSO3QXYPrTrWZORpuaNJ8_EzACnvm96anPO7sB_yEIhA267PBbsOaKD-pg3bp47TMYSxI37QKn8dOeln0Ffh0ck1q57-PzCS5t18vWcFLRues-M</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.975099,41.005646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Obelisco de Constantino</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EU9l8hJCmxQ8jbnCkoxNfLxZCou-YgW3eAaDzv5S3HZWA3XlbRRIDoil5e40IytWpzTZHZOluRb39d_cjPsCV9yOnjAjgfBQHHRRHeVPGYj0Typmad2bEsh2" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/EU9l8hJCmxQ8jbnCkoxNfLxZCou-YgW3eAaDzv5S3HZWA3XlbRRIDoil5e40IytWpzTZHZOluRb39d_cjPsCV9yOnjAjgfBQHHRRHeVPGYj0Typmad2bEsh2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.974808000000003,41.005431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>German Fountain</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/x4C3Z_-oCzt3-PS_MlItoI7mHOZFrg1f-HMc601k9jPEHfzbRD4ZcQTLjhAqlthEWFzXzoPHoTJcInwzS8OYyzXgUm-Io9z0oGeZLK5gaxVNuRQN9T4QTGBurUMCv9JjDsQs2wKYoWRYLyDgcEa_zZVKq305gakZ1DOOA3161ezU33GURsgziY6NQWi9bXaDWveWcDHT9Xqwl0nsMNNWtent1Iqq_2ccD0dFm54qkLZ0pGIX9SMLY-fxIh_cfUZCSpRj5nOg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/x4C3Z_-oCzt3-PS_MlItoI7mHOZFrg1f-HMc601k9jPEHfzbRD4ZcQTLjhAqlthEWFzXzoPHoTJcInwzS8OYyzXgUm-Io9z0oGeZLK5gaxVNuRQN9T4QTGBurUMCv9JjDsQs2wKYoWRYLyDgcEa_zZVKq305gakZ1DOOA3161ezU33GURsgziY6NQWi9bXaDWveWcDHT9Xqwl0nsMNNWtent1Iqq_2ccD0dFm54qkLZ0pGIX9SMLY-fxIh_cfUZCSpRj5nOg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.976679,41.00708,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sultanahmet Square  - Hipodromo</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/gCiCvw3dsUkM69w1ve5c2dMDxY4bc0Hi5_l13aFTpCl_7pG5XvQcU__Q5NrvgC1OLIXSKZH2KlsoNDS6HgX0QSM0c2s4krNPtA74BOPUAqwcLwroieWQu7T2h0HMKh7ZLhn--V5sN2WLmI0uKMsFRa2QR8GYmsakIiDbymFnbqc9MWr8_Gu4um8uOKGZdCvYSg5LIAPtJLUnlSX7dIQclfwiYuRmj0u30lIDJZvYW0LRKXAe1dif9Y9JBZFj4EAwLpL7b9eq" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/gCiCvw3dsUkM69w1ve5c2dMDxY4bc0Hi5_l13aFTpCl_7pG5XvQcU__Q5NrvgC1OLIXSKZH2KlsoNDS6HgX0QSM0c2s4krNPtA74BOPUAqwcLwroieWQu7T2h0HMKh7ZLhn--V5sN2WLmI0uKMsFRa2QR8GYmsakIiDbymFnbqc9MWr8_Gu4um8uOKGZdCvYSg5LIAPtJLUnlSX7dIQclfwiYuRmj0u30lIDJZvYW0LRKXAe1dif9Y9JBZFj4EAwLpL7b9eq</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.976174000000004,41.006654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Sofía</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/GhlkC38yYa1Z21Tq6sf11N_W9kzyASO_WktoBaYZKXTdw7jj8UPBnFQQL-TsNpz_V8o7FBpBxug0FGLz9P4HT8hSLiF0f98rWBAR-pp6iI3iRwi3gdjeAxbwvw2qxen98V6CKgwIR03WIACPE6j6lcUIHrGpUrcltS9J_gnhGKbpk3xWeufQINDVbXyNWWh8472QEsviyPXSiLtz4OM0JP9N_U6T8T-_ICfVVh2-tMFZ85KXXmHxEZTUeGzRAiGB5SfOWXBF7Q" height="200" width="auto" /><br><br>Construida a mediados del siglo VI, Santa Sofía o, como la llaman los turcos, Ayasofya, es el símbolo de Estambul. http://ayasofyamuzesi.gov.tr/en]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/GhlkC38yYa1Z21Tq6sf11N_W9kzyASO_WktoBaYZKXTdw7jj8UPBnFQQL-TsNpz_V8o7FBpBxug0FGLz9P4HT8hSLiF0f98rWBAR-pp6iI3iRwi3gdjeAxbwvw2qxen98V6CKgwIR03WIACPE6j6lcUIHrGpUrcltS9J_gnhGKbpk3xWeufQINDVbXyNWWh8472QEsviyPXSiLtz4OM0JP9N_U6T8T-_ICfVVh2-tMFZ85KXXmHxEZTUeGzRAiGB5SfOWXBF7Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.979959,41.008565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museo de los Mosaicos del Gran Palacio</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/aOyZfhecgSvTA1aV-ADqpFxxGtc94HPEAd-uYy-WicukihI4RDpJ9o5CWTCLCTcqr3Ht5vMTBYxh869QQGJW05We2LdwuUjKHg5rZJcH1reMy5Fknxf_DF5Qoh5y0xwzNfeCShgq0DaJRuKRdlANmIfKJNhPNYntqDkmqbL1TdJ2jlQRVDjHxbNvXs5Q3xmTyhr_L3neRhUwHZ4vlgQr5vRZ2k6EQc3Ls24UOh5a1sXAs8bn5q634_2mFlFo9Xx3IbEpI1hJMA" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/aOyZfhecgSvTA1aV-ADqpFxxGtc94HPEAd-uYy-WicukihI4RDpJ9o5CWTCLCTcqr3Ht5vMTBYxh869QQGJW05We2LdwuUjKHg5rZJcH1reMy5Fknxf_DF5Qoh5y0xwzNfeCShgq0DaJRuKRdlANmIfKJNhPNYntqDkmqbL1TdJ2jlQRVDjHxbNvXs5Q3xmTyhr_L3neRhUwHZ4vlgQr5vRZ2k6EQc3Ls24UOh5a1sXAs8bn5q634_2mFlFo9Xx3IbEpI1hJMA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.97738,41.004292,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pequeña Santa Sofia</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/A7CBtS8r0zSYzNmxmtiH-jb7qOzd3XcA9In17gT6bAqVvmmNG07mUJ1yzVguzx93TUAgLYSc1FfTZe7k61qnfT6f5MUgZoJg_hKipEqE-KZVmc0JHMmYr4fOORjVzL7TmNEpW1ejq3xaTwaTuSdFhT3FNg0pPrKDIpCCH2UCFjechjLVDryz3nQQxvy59HV87-jtBmEi5GqEntyKm8isr7M9MDw-wo5Omlt5Tfgg5u6HE57KxIISZidUn7oRufRzzN5ql0JL6w" height="200" width="auto" /><br><br>Iglesia de San Sergio y San Baco]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/A7CBtS8r0zSYzNmxmtiH-jb7qOzd3XcA9In17gT6bAqVvmmNG07mUJ1yzVguzx93TUAgLYSc1FfTZe7k61qnfT6f5MUgZoJg_hKipEqE-KZVmc0JHMmYr4fOORjVzL7TmNEpW1ejq3xaTwaTuSdFhT3FNg0pPrKDIpCCH2UCFjechjLVDryz3nQQxvy59HV87-jtBmEi5GqEntyKm8isr7M9MDw-wo5Omlt5Tfgg5u6HE57KxIISZidUn7oRufRzzN5ql0JL6w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.9722,41.002726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cementerio Eyüp</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/K3kJMYsoy6jf3DM3kVF4GIr1hRbUoRACO1q3cAUb4h7CLsOP-VdzJ-EWjJHSjRKfN_Lq_BXHRJtCGwtB7zRUY5zFhkN338YNCfBd7X81M4aNN6l9jIyjkZzO5RGE20lfdH2gHuKa" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/K3kJMYsoy6jf3DM3kVF4GIr1hRbUoRACO1q3cAUb4h7CLsOP-VdzJ-EWjJHSjRKfN_Lq_BXHRJtCGwtB7zRUY5zFhkN338YNCfBd7X81M4aNN6l9jIyjkZzO5RGE20lfdH2gHuKa</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.934437999999997,41.05339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rahmi M. Koç Museum</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ohUqlPtOZH4XT0cxYI9Html2hFzZXDZCcVM5UvbeD13W8eFn7dmXRoFn68vOs2rQHbbD5z-SBRBk9K2g8zSV00pyPUY4AKXjyVIT1VUSjCh79ykJyWLSTvMPwcZ8siGtb_c0c21e6wW2XcQbSIXqR_idMItsH8zFQryGDy4s6zfodd62TEOcYAGn5lG-N2oaDYPidgdRLM5dwbZsEvXeow7H5BitZyjInICz0TtxHK_qTgEfEdSuXSFfbH2XreM" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/ohUqlPtOZH4XT0cxYI9Html2hFzZXDZCcVM5UvbeD13W8eFn7dmXRoFn68vOs2rQHbbD5z-SBRBk9K2g8zSV00pyPUY4AKXjyVIT1VUSjCh79ykJyWLSTvMPwcZ8siGtb_c0c21e6wW2XcQbSIXqR_idMItsH8zFQryGDy4s6zfodd62TEOcYAGn5lG-N2oaDYPidgdRLM5dwbZsEvXeow7H5BitZyjInICz0TtxHK_qTgEfEdSuXSFfbH2XreM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.949313,41.042767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bazar de las Especias</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/f_IpzV5BFnxoxYzW1ih6e4iQ9BIduEHOblJbs-CxEHATTeLm-6NwXDdhaaZ634nAx_RzpsjySdK7QP5ni2OGR02mmxI7xagHSzrFanjENglfOjd_EbcSzxoq3RfKy8Uf4i8ixR11" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/f_IpzV5BFnxoxYzW1ih6e4iQ9BIduEHOblJbs-CxEHATTeLm-6NwXDdhaaZ634nAx_RzpsjySdK7QP5ni2OGR02mmxI7xagHSzrFanjENglfOjd_EbcSzxoq3RfKy8Uf4i8ixR11</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.970475,41.016433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita Nueva</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/YUJ_wjcdxHqEWGpDb_gsFnIqitHTkGp0q0PXfcDrnPI2qwwVFNd49ZmzxD3tCHfEWOYgha9farMNMmedfTKnpy8Dju1DqjMrDOAutJY3_GTPwsddRUNEjhh7dVUdnay9fG0I-x5j" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/YUJ_wjcdxHqEWGpDb_gsFnIqitHTkGp0q0PXfcDrnPI2qwwVFNd49ZmzxD3tCHfEWOYgha9farMNMmedfTKnpy8Dju1DqjMrDOAutJY3_GTPwsddRUNEjhh7dVUdnay9fG0I-x5j</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.971899600000032,41.0170566,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Istanbul Museum of Modern Art</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/QqG9rRdd39SYjt_7LTtHDKxxHOZXyr1BMPrRn76DeNuLqZDl481MX2D75m_BoZI6lJb9AoI-Q3iyKOOwxWL-pllmO_8MhJ-UaIpQx4MrO49Maxgj2rzjWVC-BhDIA0shvfPSDcfI" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/QqG9rRdd39SYjt_7LTtHDKxxHOZXyr1BMPrRn76DeNuLqZDl481MX2D75m_BoZI6lJb9AoI-Q3iyKOOwxWL-pllmO_8MhJ-UaIpQx4MrO49Maxgj2rzjWVC-BhDIA0shvfPSDcfI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.984444499999995,41.02664650000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita de Ortaköy</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/G7_gTnR4_9pe6jsCoNLGonjANqhPKUAUjNgNelBozLW4c4c7Fb-Zxf7OqpAxSaF9wqDSWbOCDMP8Xegpz9w7IShfp0VjwCbOEpWL-P-pJMougaZghknOmfSXqJl0RBeLf3r9WRn8vQ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/G7_gTnR4_9pe6jsCoNLGonjANqhPKUAUjNgNelBozLW4c4c7Fb-Zxf7OqpAxSaF9wqDSWbOCDMP8Xegpz9w7IShfp0VjwCbOEpWL-P-pJMougaZghknOmfSXqJl0RBeLf3r9WRn8vQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.02695760000006,41.04720330000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fortaleza Rumeli </name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/PUsUu3bu2JLZZqVRjgHbNh060vMKYnhwsk1gQtBHcXE2ASx6q4UFQNZQ725d-_dnSr_tY097e58tKz5zG3AxatVzO8of7JSUbmu6UcSu-4CLq8T_pGiigzjGrwhUOgeGvFJdg6Lvmw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/PUsUu3bu2JLZZqVRjgHbNh060vMKYnhwsk1gQtBHcXE2ASx6q4UFQNZQ725d-_dnSr_tY097e58tKz5zG3AxatVzO8of7JSUbmu6UcSu-4CLq8T_pGiigzjGrwhUOgeGvFJdg6Lvmw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.055993299999955,41.0846368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puente Fatih Sultan Mehmet</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/5EvKRwuqk_QT070QadV5Ys1Rx4XG3J1HwTub7hOlKpho9USX6H05zC6tZM3G-Z6mv9LzkLQ2NRLXTw6mNe3o9-oaqAveqnYCve1EcBt0oPEdK0gNYx5Ao0rVwXU8SJLydVgtCyOQBg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/5EvKRwuqk_QT070QadV5Ys1Rx4XG3J1HwTub7hOlKpho9USX6H05zC6tZM3G-Z6mv9LzkLQ2NRLXTw6mNe3o9-oaqAveqnYCve1EcBt0oPEdK0gNYx5Ao0rVwXU8SJLydVgtCyOQBg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.062249699999995,41.0913356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escuela militar Kuleli</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/9WB30X7CIsm_FPadYzDKHSts6E0udZ_Fj9SYUFIIXzrkWnM2VVDb8xtpS947QKfb1NTh1QYdFjOIjx42QqOCUuc6Axs9uHG5Ca4rpegyEocguxAuTUzO7WfInA2LclUzJYE4O0NOJQ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/9WB30X7CIsm_FPadYzDKHSts6E0udZ_Fj9SYUFIIXzrkWnM2VVDb8xtpS947QKfb1NTh1QYdFjOIjx42QqOCUuc6Axs9uHG5Ca4rpegyEocguxAuTUzO7WfInA2LclUzJYE4O0NOJQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.0532589,41.058336800000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bosforo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>29.010086099999995,41.0326217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gran Bazar</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/087S9qynoDcutRkEHQ7lB9VVjwDvHoN0oShcXTPh5EVtCtjhNYzqBeiU8HGdMq7kTpFRuofMGiammhG9iVsnZ3AiKw-kM104arm2iH1odsG1VzVykx8bSN_WmYBaK4RUY2WsN7RN" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/087S9qynoDcutRkEHQ7lB9VVjwDvHoN0oShcXTPh5EVtCtjhNYzqBeiU8HGdMq7kTpFRuofMGiammhG9iVsnZ3AiKw-kM104arm2iH1odsG1VzVykx8bSN_WmYBaK4RUY2WsN7RN</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.968068099999982,41.0106848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Columna de Constantino</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/c5Lbn87Z5qIBon16SMKUoDNrU-vYzTpg4wmcgjkbUdqYrUskiwMwS9jT7bmAYyixmKvc0r9q3iTLfmbMqqceDLv0AZVpplrdLmLP5_TAjTp_QEw_oRPPy9liVAUwvG2x3ZrdZEseAfXxDYa0Q8vh" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/c5Lbn87Z5qIBon16SMKUoDNrU-vYzTpg4wmcgjkbUdqYrUskiwMwS9jT7bmAYyixmKvc0r9q3iTLfmbMqqceDLv0AZVpplrdLmLP5_TAjTp_QEw_oRPPy9liVAUwvG2x3ZrdZEseAfXxDYa0Q8vh</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.97126639999999,41.00853310000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hamam Cemberlitas </name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/qUq6awVWM8y_BIGFKmCXEeh9n83TtOPGv8it6gVTsvEiGU1DINsToZjCIRRaTN5uCKzumfQUj-aHmbZO_kw7scVr5Nysbe_B_6Wi67MKnR4OMwKb23OKoB2_aM9tlvaHNYZ6oZZb" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/qUq6awVWM8y_BIGFKmCXEeh9n83TtOPGv8it6gVTsvEiGU1DINsToZjCIRRaTN5uCKzumfQUj-aHmbZO_kw7scVr5Nysbe_B_6Wi67MKnR4OMwKb23OKoB2_aM9tlvaHNYZ6oZZb</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.97159999999997,41.00853339999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mezquita de Atik Alí Pasha</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Vz_JBJAkl4KTeB50PobFla6UOXPMbdETNIpEu1yXTx23jg1qUE8robbSeevGaUucIvReA5_RkuOhR5StWmXVJT1JlgiShZnSLuxyX9b8t3dHb3wJ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/Vz_JBJAkl4KTeB50PobFla6UOXPMbdETNIpEu1yXTx23jg1qUE8robbSeevGaUucIvReA5_RkuOhR5StWmXVJT1JlgiShZnSLuxyX9b8t3dHb3wJ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.970550000000003,41.00872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chora Museum</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/GrpDYesSVP0IUDIt3Pqc1ee1ah3vCF-hZe65lrKiGHzosw-ETpFBnMvLxXxPA8k5jwPqBYduDE5LFIlh6YFaB85Y8OTsrUgORpyl6Z9wj6ZJhCTdZibAJg5Hc2l71VAnZtGEsOgxqrZqyvyEHrOkH1hTc41AStVS" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/GrpDYesSVP0IUDIt3Pqc1ee1ah3vCF-hZe65lrKiGHzosw-ETpFBnMvLxXxPA8k5jwPqBYduDE5LFIlh6YFaB85Y8OTsrUgORpyl6Z9wj6ZJhCTdZibAJg5Hc2l71VAnZtGEsOgxqrZqyvyEHrOkH1hTc41AStVS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.93918829999996,41.031205,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museo arqueológico de Estambul</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>28.98133050000001,41.0116855,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1435-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1435-trans-funicular.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1435-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1435-trans-funicular.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1435'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1435-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1435-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
